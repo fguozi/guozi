@@ -73,6 +73,11 @@ body {
   margin-left: 24px;
 }
 
+#guozi {
+  margin-left: 24px;
+  width:100px;
+}
+
 [class^="label_"] {
   display: block;
   cursor: pointer;
