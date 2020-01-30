@@ -73,11 +73,7 @@ body {
   margin-left: 24px;
 }
 
-#guozi {
-  margin-left:0px;
-  margin-top:100px;
 
-}
 
 [class^="label_"] {
   display: block;
@@ -105,4 +101,10 @@ body {
    cursor: default;
    color: #fff;
    background-color: #222;
+}
+
+#guozi {
+  margin-left:0px;
+  margin-top:100px;
+
 }
