@@ -103,6 +103,8 @@ body {
    cursor: default;
    color: #fff;
    background-color: #222;
+   padding:15px;
+   width:30px;
 }
 
 #guozi {
